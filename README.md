@@ -1,7 +1,8 @@
 # Pokefetch - Random Pokémon System Info
 
-![Pokefetch Screenshot](./screenshots/demo.png)
 ![Pokefetch Extra Screenshot](./screenshots/demo_extra.png)
+
+![Pokefetch Extra Screenshot](./screenshots/demo_bottom.png)
 
 ## ✨ Overview
 
@@ -126,7 +127,6 @@ The script uses external tools:
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System information tool
 
 
-![Pokefetch Extra Screenshot](./screenshots/demo_bottom.png)
 
 
 ---
