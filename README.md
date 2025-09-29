@@ -1,6 +1,7 @@
 # Pokefetch - Random Pokémon System Info
 
 ![Pokefetch Screenshot](./screenshots/demo.png)
+![Pokefetch Extra Screenshot](./screenshots/demo_extra.png)
 
 ## ✨ Overview
 
@@ -96,14 +97,6 @@ WIDTH=15                      # Maximum sprite display width
 **Problem**: Config file not found  
 **Solution**: Locate examples directory: `find /usr -name "21.jsonc" 2>/dev/null`
 
-## 📸 Screenshots
-
-![Example 1](./screenshots/example1.png)  
-*Example showing random Pokémon with system info*
-
-![Example 2](./screenshots/example2.png)  
-*Another random Pokémon encounter*
-
 ## 🔧 Technical Details
 
 The script uses several Bash scripting techniques:
@@ -131,5 +124,9 @@ The script uses external tools:
 
 - [pokeget-rs](https://github.com/talwat/pokeget-rs) - Pokémon sprite fetcher
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch) - System information tool
+
+
+![Pokefetch Extra Screenshot](./screenshots/demo_bottom.png)
+
 
 ---
