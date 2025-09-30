@@ -1,4 +1,4 @@
-# Pokefetch - Random Pokémon System Info
+# Pokefetch - pokeget-rs + fastfetch
 
 ![Pokefetch Extra Screenshot](./screenshots/demo_extra.png)
 
