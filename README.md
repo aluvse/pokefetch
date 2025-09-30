@@ -1,4 +1,4 @@
-# Pokefetch  =  ( pokeget-rs + fastfetch )
+# Pokefetch — Random Pokémon Sprites in Your Terminal
 
 ![Pokefetch Extra Screenshot](./screenshots/demo_extra.png)
 
