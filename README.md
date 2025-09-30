@@ -1,4 +1,4 @@
-# Pokefetch - pokeget-rs + fastfetch
+# Pokefetch  =  ( pokeget-rs + fastfetch )
 
 ![Pokefetch Extra Screenshot](./screenshots/demo_extra.png)
 
